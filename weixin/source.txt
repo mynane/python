@@ -1,0 +1,2841 @@
+<div id="hot-lessonbox" class="mar-t20 w-1000">
+
+        <div class="one-classfiy-lesson lesson-list" style="display: block;">
+    <ul class="cf">
+
+
+<li id="2636" test="0" deg="0" stop="1">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2636&amp;posColumn=2636.1"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2636.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2636&amp;posColumn=2636.1">
+			<img src="http://a1.jikexueyuan.com/home/201603/29/c0fb/56f9e3337eaf6.jpg" class="lessonimg" title="Android dumpsys 命令使用" alt="Android dumpsys 命令使用">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2636&amp;posColumn=2636.1"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2636.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2636&amp;posColumn=2636.1">Android dumpsys 命令使用</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程学习什么是 dumpsys 命令工具和 dumpsys 命令的子命令与参数的详解。通过dumpsys 命令，可以查询包详细信息， Activity 信息，网络信息等重要的服务信息。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							82分钟</em>
+					</dd>
+					<dd class="zhongji" style="display: none;">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number" style="display: none;">2493人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box" style="bottom: 4px;">
+
+					<a href="http://www.jikexueyuan.com/course/autotest/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/testtools.png" alt="autotest" title="自动化测试" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2636&amp;posColumn=2636.1&amp;aCCate=autotest">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2633" test="0" deg="0" stop="1">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2633&amp;posColumn=2633.2"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2633.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2633&amp;posColumn=2633.2">
+			<img src="http://a1.jikexueyuan.com/home/201603/25/27b8/56f49e672de87.jpg" class="lessonimg" title="名企数据结构面试题之二分法" alt="名企数据结构面试题之二分法">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2633&amp;posColumn=2633.2"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2633.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2633&amp;posColumn=2633.2">名企数据结构面试题之二分法</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程学习二分法，讲解幂运算、平方根、对数函数等等问题，并总结解题规律，让大家掌握二分法相关面试题的常用解法。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							75分钟</em>
+					</dd>
+					<dd class="zhongji" style="display: none;">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number" style="display: none;">2669人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box" style="bottom: 4px;">
+
+					<a href="http://www.jikexueyuan.com/course/figure/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/devbase.png" alt="figure" title="数据结构" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2633&amp;posColumn=2633.1&amp;aCCate=figure">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2628" test="0" deg="90">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2628&amp;posColumn=2628.3"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2628.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2628&amp;posColumn=2628.3">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/c8c9/56f35c7525600.jpg" class="lessonimg" title="发布 Web 应用及补充知识" alt="发布 Web 应用及补充知识">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<div class="cricle">
+					<div class="mask"></div>
+					<div class="left">
+						<div class="bg"></div>
+					</div>
+					<div class="cright">
+						<div class="bg"></div>
+					</div>
+					<div class="text"></div>
+				</div>
+			</div>
+
+
+		</a>
+
+
+			<div class="jd-line" style="display: block;">
+				<div class="green-line" style="width:59.5px"></div>
+			</div>
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2628.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2628&amp;posColumn=2628.3">发布 Web 应用及补充知识</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要介绍如何将 Web 应用发布到互联网上，供更多用户访问。并介绍如何使用一些Python Web 方面的补充知识，包括蓝图、RESTful API、数据库迁移。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							43分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2925人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/flask/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/9301/54578de87b2f1.png" alt="flask" title="Flask" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2628&amp;posColumn=2628.1&amp;aCCate=flask">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2617" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2617&amp;posColumn=2617.4"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2617.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2617&amp;posColumn=2617.4">
+			<img src="http://a1.jikexueyuan.com/home/201603/21/aee5/56ef575e4745e.jpg" class="lessonimg" title="微信公众平台开发实战：微信绑定功能" alt="微信公众平台开发实战：微信绑定功能">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2617&amp;posColumn=2617.4"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2617.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2617&amp;posColumn=2617.4">微信公众平台开发实战：微信绑定功能</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程学习微信公众平台绑定功能，分别介绍并实例讲解网站老用户的绑定以及手机号码绑定两种类型，同时也更加深入学习对MySQL数据库的操作。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							90分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon3"></i><em>高级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3636人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/phpbase/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/04/d12f/54d1c99185f23.png" alt="phpbase" title="PHP 基础" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2617&amp;posColumn=2617.1&amp;aCCate=phpbase">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2623" test="0" deg="0" stop="1">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: block;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2623&amp;posColumn=2623.5"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2623.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2623&amp;posColumn=2623.5">
+			<img src="http://a1.jikexueyuan.com/home/201603/22/5728/56f0a6e737976.png" class="lessonimg" title="Android Studio 全方位指南之协作开发指南" alt="Android Studio 全方位指南之协作开发指南">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2623&amp;posColumn=2623.5"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor lesson-hover" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2623.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2623&amp;posColumn=2623.5">Android Studio 全方位指南之协作开发指南</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要讲解如何使用 Android Studio 进行日常协作开发的操作，包含 svn 及 git 组件的使用指南。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							39分钟</em>
+					</dd>
+					<dd class="zhongji" style="display: block;">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number" style="display: block;">3392人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box" style="bottom: -2px;">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2623&amp;posColumn=2623.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2627" test="0" deg="0" stop="1">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2627&amp;posColumn=2627.6"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2627.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2627&amp;posColumn=2627.6">
+			<img src="http://a1.jikexueyuan.com/home/201603/23/121d/56f1f77a76468.png" class="lessonimg" title="Transition 动画入门到精通" alt="Transition 动画入门到精通">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2627&amp;posColumn=2627.6"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2627.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2627&amp;posColumn=2627.6">Transition 动画入门到精通</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程先介绍 Transition 动画的概念和原理，然后以效果和项目例子代码的方式讲解 Transition 动画的使用。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							79分钟</em>
+					</dd>
+					<dd class="zhongji" style="display: none;">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number" style="display: none;">3138人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box" style="bottom: 4px;">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2627&amp;posColumn=2627.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2610" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2610&amp;posColumn=2610.7"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2610.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2610&amp;posColumn=2610.7">
+			<img src="http://a1.jikexueyuan.com/home/201603/17/d744/56ea1e4f7ecaf.jpg" class="lessonimg" title="企业 Web 网站设计实例" alt="企业 Web 网站设计实例">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2610&amp;posColumn=2610.7"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2610.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2610&amp;posColumn=2610.7">企业 Web 网站设计实例</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要通过演示企业 Web 网站设计实例，帮助学员了解网站设计原理、熟悉网站的布局、图片设计以及界面设计流程，并了解交互效果设计。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							73分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">4263人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/photoshop/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/e28c/54eeb5cc8b7f1.png" alt="photoshop" title="Photoshop" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2610&amp;posColumn=2610.1&amp;aCCate=photoshop">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2602" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2602&amp;posColumn=2602.8"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2602.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2602&amp;posColumn=2602.8">
+			<img src="http://a1.jikexueyuan.com/home/201603/15/eb10/56e76c8c10d5a.jpg" class="lessonimg" title="适配所有机型的桌面布局" alt="适配所有机型的桌面布局">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2602&amp;posColumn=2602.8"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2602.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2602&amp;posColumn=2602.8">适配所有机型的桌面布局</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要讲配所有机型的桌面布局，将重要、常用的应用快捷方式放到显眼的位置，甚至可以添加自己写的广告快捷方式。主要设置首页、 Hotseat 的桌面布局。通过本课程可以学到 queryIntent 等重要方法。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							66分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">4410人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2602&amp;posColumn=2602.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+    </ul>
+</div>
+
+
+    <div id="fivelesson">
+	<div class="one-classfiy-lesson lesson-list" style="display: none;">
+	    <ul class="cf">
+
+
+<li id="2649" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2649&amp;posColumn=2649.1"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2649.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2649&amp;posColumn=2649.1">
+			<img src="http://a1.jikexueyuan.com/home/201604/01/e628/56fe1cc5eacb5.jpg" class="lessonimg" title="动态规划（二）" alt="动态规划（二）">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2649&amp;posColumn=2649.1"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2649.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2649&amp;posColumn=2649.1">动态规划（二）</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程同样介绍和动态规划算法相关的问题，但是侧重于问题的转化的理解。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							41分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon3"></i><em>高级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2133人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/count/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/devbase.png" alt="count" title="算法基础" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2649&amp;posColumn=2649.1&amp;aCCate=count">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2648" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2648&amp;posColumn=2648.2"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2648.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2648&amp;posColumn=2648.2">
+			<img src="http://a1.jikexueyuan.com/home/201604/01/183a/56fe1c7a0e4f7.jpg" class="lessonimg" title="构建轻博客系统之评论功能" alt="构建轻博客系统之评论功能">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2648&amp;posColumn=2648.2"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2648.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2648&amp;posColumn=2648.2">构建轻博客系统之评论功能</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要介绍利用 beego 来实现博客的评论功能，包括对文章的评论，以及多级嵌套评论的处理方法。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							28分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2195人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/beego/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/5fe1/54eeb78557895.png" alt="beego" title="beego" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2648&amp;posColumn=2648.1&amp;aCCate=beego">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2647" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2647&amp;posColumn=2647.3"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2647.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.3">
+			<img src="http://a1.jikexueyuan.com/home/201603/31/4372/56fcfaeaf20b2.jpg" class="lessonimg" title="编程之美优秀选手陈晓奇经验分享" alt="编程之美优秀选手陈晓奇经验分享">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.3"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2647.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.3">编程之美优秀选手陈晓奇经验分享</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本期课程的主讲人为清华大学的陈晓奇同学，他曾凭借着优秀的编程能力和创新思维连续两年闯进编程之美挑战赛决赛，最终获得了全国五强。此外，陈晓奇同学在以往两年的比赛中，均采用了 Code Hunt 这一网络平台进行比赛，对 Code Hunt 平台参赛有一定的经验和技巧。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							23分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2493人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/windowsazure/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="windowsazure" title="Windows Azure" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2647&amp;posColumn=2647.1&amp;aCCate=windowsazure">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2646" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2646&amp;posColumn=2646.4"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2646.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.4">
+			<img src="http://a1.jikexueyuan.com/home/201603/31/8e27/56fc995cf13fc.jpg" class="lessonimg" title="FileMaker 14 高级教学（十）共享数据" alt="FileMaker 14 高级教学（十）共享数据">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.4"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2646.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.4">FileMaker 14 高级教学（十）共享数据</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			通过本课内容我们将了解怎样通过配置 DSN 来连接 ODBC 数据源，怎样将 ODBC 的数据导入FileMaker 解决方案，怎样运用外部 sql 数据源将数据导入 FileMaker 数据库中。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							68分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2165人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/filemaker/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/business.png" alt="filemaker" title="FileMaker" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2646&amp;posColumn=2646.1&amp;aCCate=filemaker">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2645" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2645&amp;posColumn=2645.5"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2645.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2645&amp;posColumn=2645.5">
+			<img src="http://a1.jikexueyuan.com/home/201603/31/80e4/56fc991cb60ec.jpg" class="lessonimg" title="Revel 开发高级阶段之 Revel 高级特性" alt="Revel 开发高级阶段之 Revel 高级特性">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2645&amp;posColumn=2645.5"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2645.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2645&amp;posColumn=2645.5">Revel 开发高级阶段之 Revel 高级特性</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程在前面课程的基础上，分别从 init、interceptor、Render 以及配置文件四个方面逐一讲解Revel 框架中的高级特性，同时这些高级特性有助于更好的了解 Revel 框架，并极大的丰富项目的功能特性。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							69分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2091人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/revel/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/5fe1/54eeb78557895.png" alt="revel" title="Revel" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2645&amp;posColumn=2645.1&amp;aCCate=revel">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2642" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2642&amp;posColumn=2642.6"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2642.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2642&amp;posColumn=2642.6">
+			<img src="http://a1.jikexueyuan.com/home/201603/30/fce1/56fb35cba3f07.jpg" class="lessonimg" title="综合案例：蜜桃全球购高保真原型设计" alt="综合案例：蜜桃全球购高保真原型设计">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2642&amp;posColumn=2642.6"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2642.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2642&amp;posColumn=2642.6">综合案例：蜜桃全球购高保真原型设计</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程讲解如何绘制高保真原型，通过蜜桃全球购这个案例学会高保真原型设计，包括网站的注册、登录与表单验证、网站导航和底部版权信息的母版设计、商品详情页设计、商品加入购物车页面设计、查看购物车页面设计、确认下单页面设计，囊括了商品购买的整个流程。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>6课时
+							186分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon3"></i><em>高级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2495人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/axure/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/pm.png" alt="axure" title="Axure" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2642&amp;posColumn=2642.1&amp;aCCate=axure">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2641" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2641&amp;posColumn=2641.7"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2641.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2641&amp;posColumn=2641.7">
+			<img src="http://a1.jikexueyuan.com/home/201603/30/cd4b/56fb351d044b9.jpg" class="lessonimg" title="动态规划（一）" alt="动态规划（一）">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2641&amp;posColumn=2641.7"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2641.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2641&amp;posColumn=2641.7">动态规划（一）</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程介绍了动态规划算法的基本思想，同时也介绍了使用动态规划算法解决的初级问题。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							29分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon3"></i><em>高级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2216人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/count/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/devbase.png" alt="count" title="算法基础" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2641&amp;posColumn=2641.1&amp;aCCate=count">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2637" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2637&amp;posColumn=2637.8"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/2637.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2637&amp;posColumn=2637.8">
+			<img src="http://a1.jikexueyuan.com/home/201603/29/7536/56f9e38ff0833.jpg" class="lessonimg" title="OSG 工作机制" alt="OSG 工作机制">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2637&amp;posColumn=2637.8"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2637.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2637&amp;posColumn=2637.8">OSG 工作机制</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程讲解 OSG 的智能指针，让我们更好的管理内存空间。另外深入浅出的讲解 OSG 中访问器机制，访问器机制在系统的中应用非常广泛，本课程讲几种应用。还有一个重要的工作机制--回调机制，讲解在 OSG 中的运行原理，并通过几个实例展示回调机制的的应用实现。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							27分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2134人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/gles/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/devstd.png" alt="gles" title="OpenGL/GLES" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2637&amp;posColumn=2637.1&amp;aCCate=gles">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+	    </ul>
+	</div>
+
+	<div class="one-classfiy-lesson lesson-list" style="display: none;">
+	    <ul class="cf">
+
+
+<li id="2647" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2647&amp;posColumn=2647.1"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2647.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.1">
+			<img src="http://a1.jikexueyuan.com/home/201603/31/4372/56fcfaeaf20b2.jpg" class="lessonimg" title="编程之美优秀选手陈晓奇经验分享" alt="编程之美优秀选手陈晓奇经验分享">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.1"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2647.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.1">编程之美优秀选手陈晓奇经验分享</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本期课程的主讲人为清华大学的陈晓奇同学，他曾凭借着优秀的编程能力和创新思维连续两年闯进编程之美挑战赛决赛，最终获得了全国五强。此外，陈晓奇同学在以往两年的比赛中，均采用了 Code Hunt 这一网络平台进行比赛，对 Code Hunt 平台参赛有一定的经验和技巧。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							23分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2493人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/windowsazure/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="windowsazure" title="Windows Azure" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2647&amp;posColumn=2647.1&amp;aCCate=windowsazure">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2646" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2646&amp;posColumn=2646.2"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2646.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.2">
+			<img src="http://a1.jikexueyuan.com/home/201603/31/8e27/56fc995cf13fc.jpg" class="lessonimg" title="FileMaker 14 高级教学（十）共享数据" alt="FileMaker 14 高级教学（十）共享数据">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.2"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2646.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.2">FileMaker 14 高级教学（十）共享数据</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			通过本课内容我们将了解怎样通过配置 DSN 来连接 ODBC 数据源，怎样将 ODBC 的数据导入FileMaker 解决方案，怎样运用外部 sql 数据源将数据导入 FileMaker 数据库中。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							68分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2165人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/filemaker/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/business.png" alt="filemaker" title="FileMaker" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2646&amp;posColumn=2646.1&amp;aCCate=filemaker">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2635" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2635&amp;posColumn=2635.3"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2635.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2635&amp;posColumn=2635.3">
+			<img src="http://a1.jikexueyuan.com/home/201603/28/1366/56f906e2b51ae.jpg" class="lessonimg" title="腾讯云技术道场第一期" alt="腾讯云技术道场第一期">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2635&amp;posColumn=2635.3"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2635.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2635&amp;posColumn=2635.3">腾讯云技术道场第一期</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							122分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2440人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2635&amp;posColumn=2635.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2630" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2630&amp;posColumn=2630.4"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2630.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2630&amp;posColumn=2630.4">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/34b5/56f35ce68f302.jpg" class="lessonimg" title="Flume 概述" alt="Flume 概述">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2630&amp;posColumn=2630.4"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2630.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2630&amp;posColumn=2630.4">Flume 概述</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要是带领大家认识 Flume，了解 Flume 是什么、Flume 能干什么以及 Flume 的发展历史，最后能够在 Linux 或者类 Unix 环境下通过正确的修改配置文件进行 Flume 的安装。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							35分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2482人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/flume/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/bigdata.png" alt="flume" title="Flume" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2630&amp;posColumn=2630.1&amp;aCCate=flume">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2622" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2622&amp;posColumn=2622.5"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2622.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2622&amp;posColumn=2622.5">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/9ea8/56f3a22256a13.jpg" class="lessonimg" title="在云上搭建自己的 Disuz 论坛" alt="在云上搭建自己的 Disuz 论坛">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2622&amp;posColumn=2622.5"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2622.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2622&amp;posColumn=2622.5">在云上搭建自己的 Disuz 论坛</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将带大家手把手的在一个小时内搭建出自己的 Disuz 论坛，也借此悉熟云计算服务中云服务器、云数据库等服务的具体使用，了解镜像的概念与使用。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							19分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3021人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2622&amp;posColumn=2622.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2621" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2621&amp;posColumn=2621.6"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2621.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2621&amp;posColumn=2621.6">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/bff2/56f3a22e5915d.jpg" class="lessonimg" title="云计算的组成" alt="云计算的组成">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2621&amp;posColumn=2621.6"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2621.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2621&amp;posColumn=2621.6">云计算的组成</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将带大家了解云计算的服务在 Iaas、Paas、Saas 三层的不同组成以及一些基本概念。这些基础概念将为下一节的实践课程进行基础知识的普及。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							22分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2612人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2621&amp;posColumn=2621.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2620" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2620&amp;posColumn=2620.7"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2620.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2620&amp;posColumn=2620.7">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/a3ef/56f3a4022328f.jpg" class="lessonimg" title="一分钟了解云计算" alt="一分钟了解云计算">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2620&amp;posColumn=2620.7"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2620.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2620&amp;posColumn=2620.7">一分钟了解云计算</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将带大家了解云计算的基本概念、应用场景与发展趋势。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							19分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2976人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2620&amp;posColumn=2620.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2610" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2610&amp;posColumn=2610.8"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2610.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2610&amp;posColumn=2610.8">
+			<img src="http://a1.jikexueyuan.com/home/201603/17/d744/56ea1e4f7ecaf.jpg" class="lessonimg" title="企业 Web 网站设计实例" alt="企业 Web 网站设计实例">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2610&amp;posColumn=2610.8"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2610.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2610&amp;posColumn=2610.8">企业 Web 网站设计实例</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要通过演示企业 Web 网站设计实例，帮助学员了解网站设计原理、熟悉网站的布局、图片设计以及界面设计流程，并了解交互效果设计。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							73分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">4263人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/photoshop/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/e28c/54eeb5cc8b7f1.png" alt="photoshop" title="Photoshop" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2610&amp;posColumn=2610.1&amp;aCCate=photoshop">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+	    </ul>
+	</div>
+
+	<div class="one-classfiy-lesson lesson-list" style="display: none;">
+	    <ul class="cf">
+
+
+<li id="1592" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1592&amp;posColumn=1592.1"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/1592.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1592&amp;posColumn=1592.1">
+			<img src="http://a1.jikexueyuan.com/home/201507/15/d6c8/55a5bffbb592f.jpg" class="lessonimg" title="Android 项目开发实战：图案解锁" alt="Android 项目开发实战：图案解锁">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1592&amp;posColumn=1592.1"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1592.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1592&amp;posColumn=1592.1">Android 项目开发实战：图案解锁</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程讲解在 Android 上实现一个自定义的图案解锁用户控件，并利用这个自定义控件为应用添加图案解锁功能。该应用可以允许用户设置自己的解锁图案，然后就可以使用该图案进行解锁。应用使用自定义 View 实现基本点的显示与切换，使用 Canvas 实现界面的绘制。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							72分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">7163人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1592&amp;posColumn=1592.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="1348" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1348&amp;posColumn=1348.2"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/1348.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1348&amp;posColumn=1348.2">
+			<img src="http://a1.jikexueyuan.com/home/201506/12/d507/557a38245768b.jpg" class="lessonimg" title="Android 项目开发实战：语音播报计算器" alt="Android 项目开发实战：语音播报计算器">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1348&amp;posColumn=1348.2"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1348.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1348&amp;posColumn=1348.2">Android 项目开发实战：语音播报计算器</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程带领大家一起完成一款带语音播报功能的计算器，并且有历史记录等扩展功能，包括下滑结果显示框出现历史记录，以及滑动删除等。除此之外，它还可以合计历史结果值。
+
+
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							48分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">4848人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1348&amp;posColumn=1348.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="1454" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1454&amp;posColumn=1454.3"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/1454.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1454&amp;posColumn=1454.3">
+			<img src="http://a1.jikexueyuan.com/home/201506/25/ea52/558b665d1dfa0.jpg" class="lessonimg" title="iOS实战项目开发:团购之导航栏搜索城市功能" alt="iOS实战项目开发:团购之导航栏搜索城市功能">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1454&amp;posColumn=1454.3"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1454.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1454&amp;posColumn=1454.3">iOS实战项目开发:团购之导航栏搜索城市功能</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本节课将进一步优化导航栏的 UI 界面，运用 plist 文件读取解析，及字典转模型等方法，实现搜索城市及定位的界面及功能。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							59分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">5182人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/ios/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/04/3567/5457df3530e14.png" alt="ios" title="iOS" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1454&amp;posColumn=1454.1&amp;aCCate=ios">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="1498" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1498&amp;posColumn=1498.4"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/1498.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1498&amp;posColumn=1498.4">
+			<img src="http://a1.jikexueyuan.com/home/201507/01/cc4d/55934e8f88af4.jpg" class="lessonimg" title="Android项目开发实战：语音播报计算器拓展功能实现" alt="Android项目开发实战：语音播报计算器拓展功能实现">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1498&amp;posColumn=1498.4"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1498.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1498&amp;posColumn=1498.4">Android项目开发实战：语音播报计算器拓展功能实现</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程在语音播报计算器的基础上，实现更人性化的功能。它包括：下滑显示框展示历史记录、历史记录可滑动删除、合计历史记录功能、清除所有历史记录功能。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							54分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3725人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1498&amp;posColumn=1498.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="1552" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1552&amp;posColumn=1552.5"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/1552.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1552&amp;posColumn=1552.5">
+			<img src="http://a1.jikexueyuan.com/home/201507/09/882c/559dda9e77ab8.jpg" class="lessonimg" title="构建轻博客系统之项目准备" alt="构建轻博客系统之项目准备">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1552&amp;posColumn=1552.5"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1552.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1552&amp;posColumn=1552.5">构建轻博客系统之项目准备</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要带大家做一些前期的准备工作，为接下来的正式开发打好基础。课程内容包括项目分析、beego 的简单使用和数据库的配置。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							27分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3430人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/beego/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/5fe1/54eeb78557895.png" alt="beego" title="beego" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1552&amp;posColumn=1552.1&amp;aCCate=beego">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="1274" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1274&amp;posColumn=1274.6"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/1274.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1274&amp;posColumn=1274.6">
+			<img src="http://a1.jikexueyuan.com/home/201506/04/a899/55703ecb2b4cb.jpg" class="lessonimg" title="Cocos2d-x 小小打飞机项目开发实战" alt="Cocos2d-x 小小打飞机项目开发实战">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1274&amp;posColumn=1274.6"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1274.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1274&amp;posColumn=1274.6">Cocos2d-x 小小打飞机项目开发实战</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程通过学习开发一个打飞机的游戏项目开发，学习 Cocos2d-x 3.4 引擎常用知识，还会学习 Cocos2d-x 3.4 的点击等监听事件，贝塞尔曲线，帧动画，和一些存储数据技术，让大家掌握一个小游戏的完整开发流程。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>6课时
+							61分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3639人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/cocos/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/games.png" alt="cocos" title="Cocos" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1274&amp;posColumn=1274.1&amp;aCCate=cocos">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="1337" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1337&amp;posColumn=1337.7"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/1337.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1337&amp;posColumn=1337.7">
+			<img src="http://a1.jikexueyuan.com/home/201506/11/6678/5578e9df3bd16.jpg" class="lessonimg" title="Android 项目开发实战：微博之项目搭建" alt="Android 项目开发实战：微博之项目搭建">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1337&amp;posColumn=1337.7"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1337.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1337&amp;posColumn=1337.7">Android 项目开发实战：微博之项目搭建</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程带领大家实现微博类应用，首先简单的展示了下应用的功能，进行了微博应用的实现需求分析，其次讲解如何接入新浪微博的 SDK 及其使用方法。并进行项目环境的搭建，为后面的开发做好准备工作。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							26分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">7819人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1337&amp;posColumn=1337.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="904" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=904&amp;posColumn=904.8"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/904.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=904&amp;posColumn=904.8">
+			<img src="http://a1.jikexueyuan.com/home/201505/15/d835/55554ce15004d.jpg" class="lessonimg" title="Cocos2d-x 游戏：功夫小子——概要及开发环境配置" alt="Cocos2d-x 游戏：功夫小子——概要及开发环境配置">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=904&amp;posColumn=904.8"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/904.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=904&amp;posColumn=904.8">Cocos2d-x 游戏：功夫小子——概要及开发环境配置</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要根据实际的游戏演示，分析游戏的基本结构和特点，形成对游戏的整体认识。介绍开发游戏使用的 Cocos2d-x 版本并配置好开发环境。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							23分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">6814人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/cocos/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/games.png" alt="cocos" title="Cocos" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=904&amp;posColumn=904.1&amp;aCCate=cocos">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+	    </ul>
+	</div>
+
+	<div class="one-classfiy-lesson lesson-list" style="display: none;">
+	    <ul class="cf">
+
+
+<li id="2463" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2463&amp;posColumn=2463.1"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2463.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2463&amp;posColumn=2463.1">
+			<img src="http://a1.jikexueyuan.com/home/201601/20/b856/569eeab4307dd.jpg" class="lessonimg" title="微信 web 开发者工具详解" alt="微信 web 开发者工具详解">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2463&amp;posColumn=2463.1"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2463.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2463&amp;posColumn=2463.1">微信 web 开发者工具详解</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程讲解微信 web 开发者工具的产生背景、所解决的问题、使用的场景以及通过实例为大家详细阐述微信 web 开发者工具的具体使用方法，让大家掌握、熟练运用该工具，方便今后的微信开发。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							36分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">7912人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/phpbase/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/04/d12f/54d1c99185f23.png" alt="phpbase" title="PHP 基础" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2463&amp;posColumn=2463.1&amp;aCCate=phpbase">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="1221" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=1221&amp;posColumn=1221.2"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/1221.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1221&amp;posColumn=1221.2">
+			<img src="http://a1.jikexueyuan.com/home/201505/29/8dcf/5567c81a548e7.jpg" class="lessonimg" title="Google IO 2015 大揭秘" alt="Google IO 2015 大揭秘">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1221&amp;posColumn=1221.2"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/1221.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=1221&amp;posColumn=1221.2">Google IO 2015 大揭秘</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			今天凌晨 Google IO 2015 大会举行，在大会上 Google 推出了包括 Android M、Android Studio 1.3、Android Wear、Brillo 在内的很多新的好玩的东西，我在第一时间录制这个视频和大家分享认知。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							20分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">6272人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=1221&amp;posColumn=1221.1&amp;aCCate=android">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="643" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=643&amp;posColumn=643.3"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/643.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=643&amp;posColumn=643.3">
+			<img src="http://a1.jikexueyuan.com/home/201504/01/12c3/551b5d08b2a73.jpg" class="lessonimg" title="WatchKit 的界面对象" alt="WatchKit 的界面对象">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=643&amp;posColumn=643.3"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/643.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=643&amp;posColumn=643.3">WatchKit 的界面对象</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课介绍 WatchKit 中的界面对象，也就是 UI 元素部分，包括界面对象的概念以及 WatchKit 中的界面对象，如标签、表、上下文菜单等。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							31分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3280人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/ios/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/04/3567/5457df3530e14.png" alt="ios" title="iOS" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=643&amp;posColumn=643.1&amp;aCCate=ios">
+					</a>
+
+					<a href="http://www.jikexueyuan.com/course/applewatchkit/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/82ff/54eeb7d945b56.png" alt="applewatchkit" title="Apple Watchkit" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=643&amp;posColumn=643.2&amp;aCCate=applewatchkit">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="642" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=642&amp;posColumn=642.4"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/642.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=642&amp;posColumn=642.4">
+			<img src="http://a1.jikexueyuan.com/home/201504/01/bc8f/551b5c6a507ea.jpg" class="lessonimg" title="WatchKit 的 Glance 和通知界面（下）" alt="WatchKit 的 Glance 和通知界面（下）">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=642&amp;posColumn=642.4"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/642.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=642&amp;posColumn=642.4">WatchKit 的 Glance 和通知界面（下）</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课是 WatchKit 的概览和通知界面课程的下半部分课程，主要讲解了为通知界面添加按钮的方法、通知类目的概念以及静态界面、动态界面的样式和界面指南。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							27分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2754人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/ios/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/04/3567/5457df3530e14.png" alt="ios" title="iOS" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=642&amp;posColumn=642.1&amp;aCCate=ios">
+					</a>
+
+					<a href="http://www.jikexueyuan.com/course/applewatchkit/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/82ff/54eeb7d945b56.png" alt="applewatchkit" title="Apple Watchkit" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=642&amp;posColumn=642.2&amp;aCCate=applewatchkit">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="641" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=641&amp;posColumn=641.5"></i>
+
+
+
+		<a href="http://www.jikexueyuan.com/course/641.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=641&amp;posColumn=641.5">
+			<img src="http://a1.jikexueyuan.com/home/201504/01/cb89/551b5b72ca1eb.jpg" class="lessonimg" title="WatchKit 的 Glance 和通知界面（上）" alt="WatchKit 的 Glance 和通知界面（上）">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=641&amp;posColumn=641.5"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/641.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=641&amp;posColumn=641.5">WatchKit 的 Glance 和通知界面（上）</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课介绍 WatchKit 中 Glance 和 Notification 界面，包括两种交互方式的概念和特点。其中上半部分的课程主要讲解了 Glance 的概念和布局原则，简单介绍了通知界面的两种类型。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							24分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2873人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/ios/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/04/3567/5457df3530e14.png" alt="ios" title="iOS" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=641&amp;posColumn=641.1&amp;aCCate=ios">
+					</a>
+
+					<a href="http://www.jikexueyuan.com/course/applewatchkit/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/82ff/54eeb7d945b56.png" alt="applewatchkit" title="Apple Watchkit" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=641&amp;posColumn=641.2&amp;aCCate=applewatchkit">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="624" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=624&amp;posColumn=624.6"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/624.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=624&amp;posColumn=624.6">
+			<img src="http://a1.jikexueyuan.com/home/201503/18/4dbd/5508de1b9362e.jpg" class="lessonimg" title="WatchKit 布局和导航" alt="WatchKit 布局和导航">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=624&amp;posColumn=624.6"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/624.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=624&amp;posColumn=624.6">WatchKit 布局和导航</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课介绍 WatchKit 中布局和导航，包括布局中涉及到的 App Icon 尺寸、屏幕尺寸、WatchKit 的适配；导航的两种样式：分页和分层的概念和创建。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							24分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">4010人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/ios/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/04/3567/5457df3530e14.png" alt="ios" title="iOS" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=624&amp;posColumn=624.1&amp;aCCate=ios">
+					</a>
+
+					<a href="http://www.jikexueyuan.com/course/applewatchkit/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/82ff/54eeb7d945b56.png" alt="applewatchkit" title="Apple Watchkit" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=624&amp;posColumn=624.2&amp;aCCate=applewatchkit">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="603" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=603&amp;posColumn=603.7"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/603.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=603&amp;posColumn=603.7">
+			<img src="http://a1.jikexueyuan.com/home/201503/13/03cb/5502515f794d2.jpg" class="lessonimg" title="WatchKit 基础知识简介" alt="WatchKit 基础知识简介">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=603&amp;posColumn=603.7"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/603.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=603&amp;posColumn=603.7">WatchKit 基础知识简介</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课介绍最基础 WatchKit 框架包括 WatchKit App 和 WatchKit Extension 功能和生命周期。了解何谓 Watch App，为以后的开发打下基础。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							18分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">5557人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/ios/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/04/3567/5457df3530e14.png" alt="ios" title="iOS" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=603&amp;posColumn=603.1&amp;aCCate=ios">
+					</a>
+
+					<a href="http://www.jikexueyuan.com/course/applewatchkit/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/82ff/54eeb7d945b56.png" alt="applewatchkit" title="Apple Watchkit" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=603&amp;posColumn=603.2&amp;aCCate=applewatchkit">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="595" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=595&amp;posColumn=595.8"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/595.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=595&amp;posColumn=595.8">
+			<img src="http://a1.jikexueyuan.com/home/201503/10/12ed/54fe4789d0049.jpg" class="lessonimg" title="苹果2015新产品发布会介绍" alt="苹果2015新产品发布会介绍">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=595&amp;posColumn=595.8"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/595.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=595&amp;posColumn=595.8">苹果2015新产品发布会介绍</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课根据苹果2015年3月10日的产品发布会总结而出，内容包括 AppleTV 介绍、iPhone 特性介绍、全新 Mac 系列产品介绍、Apple Watch 介绍。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							16分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">4620人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/android/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201411/03/00a1/54578d8e652c3.png" alt="android" title="Android" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=595&amp;posColumn=595.1&amp;aCCate=android">
+					</a>
+
+					<a href="http://www.jikexueyuan.com/course/applewatchkit/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201502/26/82ff/54eeb7d945b56.png" alt="applewatchkit" title="Apple Watchkit" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=595&amp;posColumn=595.2&amp;aCCate=applewatchkit">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+	    </ul>
+	</div>
+
+	<div class="one-classfiy-lesson lesson-list" style="display: none;">
+	    <ul class="cf">
+
+
+<li id="2647" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2647&amp;posColumn=2647.1"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2647.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.1">
+			<img src="http://a1.jikexueyuan.com/home/201603/31/4372/56fcfaeaf20b2.jpg" class="lessonimg" title="编程之美优秀选手陈晓奇经验分享" alt="编程之美优秀选手陈晓奇经验分享">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.1"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2647.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2647&amp;posColumn=2647.1">编程之美优秀选手陈晓奇经验分享</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本期课程的主讲人为清华大学的陈晓奇同学，他曾凭借着优秀的编程能力和创新思维连续两年闯进编程之美挑战赛决赛，最终获得了全国五强。此外，陈晓奇同学在以往两年的比赛中，均采用了 Code Hunt 这一网络平台进行比赛，对 Code Hunt 平台参赛有一定的经验和技巧。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							23分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2493人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/windowsazure/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="windowsazure" title="Windows Azure" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2647&amp;posColumn=2647.1&amp;aCCate=windowsazure">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2646" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2646&amp;posColumn=2646.2"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2646.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.2">
+			<img src="http://a1.jikexueyuan.com/home/201603/31/8e27/56fc995cf13fc.jpg" class="lessonimg" title="FileMaker 14 高级教学（十）共享数据" alt="FileMaker 14 高级教学（十）共享数据">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.2"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2646.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2646&amp;posColumn=2646.2">FileMaker 14 高级教学（十）共享数据</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			通过本课内容我们将了解怎样通过配置 DSN 来连接 ODBC 数据源，怎样将 ODBC 的数据导入FileMaker 解决方案，怎样运用外部 sql 数据源将数据导入 FileMaker 数据库中。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							68分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2165人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/filemaker/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/business.png" alt="filemaker" title="FileMaker" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2646&amp;posColumn=2646.1&amp;aCCate=filemaker">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2635" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2635&amp;posColumn=2635.3"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2635.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2635&amp;posColumn=2635.3">
+			<img src="http://a1.jikexueyuan.com/home/201603/28/1366/56f906e2b51ae.jpg" class="lessonimg" title="腾讯云技术道场第一期" alt="腾讯云技术道场第一期">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2635&amp;posColumn=2635.3"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2635.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2635&amp;posColumn=2635.3">腾讯云技术道场第一期</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			腾讯云布道师团队的 T3、T4 为真格基金、梅花天使、原子创投、明势资本、AA 资本等一线创投所投资的团队 CTO 们进行了专场布道。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							122分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2440人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2635&amp;posColumn=2635.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2622" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2622&amp;posColumn=2622.4"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2622.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2622&amp;posColumn=2622.4">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/9ea8/56f3a22256a13.jpg" class="lessonimg" title="在云上搭建自己的 Disuz 论坛" alt="在云上搭建自己的 Disuz 论坛">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2622&amp;posColumn=2622.4"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2622.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2622&amp;posColumn=2622.4">在云上搭建自己的 Disuz 论坛</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将带大家手把手的在一个小时内搭建出自己的 Disuz 论坛，也借此悉熟云计算服务中云服务器、云数据库等服务的具体使用，了解镜像的概念与使用。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							19分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3021人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2622&amp;posColumn=2622.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2621" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2621&amp;posColumn=2621.5"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2621.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2621&amp;posColumn=2621.5">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/bff2/56f3a22e5915d.jpg" class="lessonimg" title="云计算的组成" alt="云计算的组成">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2621&amp;posColumn=2621.5"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2621.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2621&amp;posColumn=2621.5">云计算的组成</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将带大家了解云计算的服务在 Iaas、Paas、Saas 三层的不同组成以及一些基本概念。这些基础概念将为下一节的实践课程进行基础知识的普及。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							22分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2612人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2621&amp;posColumn=2621.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2620" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2620&amp;posColumn=2620.6"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2620.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2620&amp;posColumn=2620.6">
+			<img src="http://a1.jikexueyuan.com/home/201603/24/a3ef/56f3a4022328f.jpg" class="lessonimg" title="一分钟了解云计算" alt="一分钟了解云计算">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2620&amp;posColumn=2620.6"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2620.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2620&amp;posColumn=2620.6">一分钟了解云计算</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将带大家了解云计算的基本概念、应用场景与发展趋势。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							19分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2976人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/tencent/">
+						<img width="16" src="http://a1.jikexueyuan.com/home/201603/22/ecb2/56f0b542f23fd.png" alt="tencent" title="腾讯云" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2620&amp;posColumn=2620.1&amp;aCCate=tencent">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2590" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2590&amp;posColumn=2590.7"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2590.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2590&amp;posColumn=2590.7">
+			<img src="http://a1.jikexueyuan.com/home/201603/10/9b00/56e0d26134b0c.jpg" class="lessonimg" title="FileMaker 14 高级教学（九）部署" alt="FileMaker 14 高级教学（九）部署">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2590&amp;posColumn=2590.7"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2590.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2590&amp;posColumn=2590.7">FileMaker 14 高级教学（九）部署</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本章主要回顾了在 FileMaker 的解决方案中提供的几类部署的方式，学习怎样安装，配置、维护和备份FileMaker服务器。进而学习怎样利用脚本和命令行操作 FileMaker 服务器以及怎样使用Webdirect 来部署。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							60分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2444人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/filemaker/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/business.png" alt="filemaker" title="FileMaker" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2590&amp;posColumn=2590.1&amp;aCCate=filemaker">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="2559" test="0" deg="0">
+	<div class="lessonimg-box">
+
+
+				<i class="user-action lesson-shoucang " style="display: none;" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1017&amp;aCId=2559&amp;posColumn=2559.8"></i>
+
+
+
+		<i class="free-icon"></i>
+		<a href="http://www.jikexueyuan.com/course/2559.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2559&amp;posColumn=2559.8">
+			<img src="http://a1.jikexueyuan.com/home/201602/26/6578/56cfb909a8294.jpg" class="lessonimg" title="FileMaker 14 高级教学（八）安全性" alt="FileMaker 14 高级教学（八）安全性">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2559&amp;posColumn=2559.8"></i>
+			</div>
+
+
+		</a>
+
+
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2559.html" target="_blank" jktag="&amp;posGP=103001&amp;posArea=0002&amp;posOper=1003&amp;aCId=2559&amp;posColumn=2559.8">FileMaker 14 高级教学（八）安全性</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			通过学习本章，我们将了解怎样创建权限。并且用脚本和安全性设置来控制对于数据库记录的查看、删减、添加。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							44分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2411人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="http://www.jikexueyuan.com/course/filemaker/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/business.png" alt="filemaker" title="FileMaker" jktag="&amp;posGP=101001&amp;posArea=0002&amp;posOper=1004&amp;aCId=2559&amp;posColumn=2559.1&amp;aCCate=filemaker">
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+	    </ul>
+	</div>
+
+</div>
+</div>
